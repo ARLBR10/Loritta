@@ -1,3 +1,4 @@
+[![Run on Repl.it](https://repl.it/badge/github/LorittaBot/Loritta)](https://repl.it/github/LorittaBot/Loritta)
 
 <p align="center">
 <img width="65%" src="https://cdn.discordapp.com/attachments/708017680677863505/709793353478176768/lori_github_logo.png">
